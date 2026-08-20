@@ -114,7 +114,7 @@ AI-Code-Reviewer/
 
 Live Demo
 
-https://vootlarakeshreddy123-debug.github.io/AI-Code-Reviewer/
+https://ai-code-reviewer-1hx0.onrender.com/api/review
 
 ## 🔗 Repository
 
