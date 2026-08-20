@@ -1,0 +1,6 @@
+{
+  "name": "AI Code Reviewer",
+  "description": "An advanced AI-powered code analysis platform that provides Big-O time/space complexity analysis, security vulnerability scanning, performance profiling, multi-dimensional code health scoring, and AI surgical auto-fixes.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

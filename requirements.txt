@@ -1,0 +1,6 @@
+# AI Code Reviewer - Python Static Analysis Dependencies
+# Compatible with Python 3.10, 3.11, 3.12, 3.13, 3.14+
+pyflakes>=3.2.0
+bandit>=1.7.8
+ruff>=0.4.0
+mypy>=1.10.0
